@@ -1,6 +1,6 @@
 {
-  "name": "@gulp-sourcemaps/identity-map",
-  "version": "2.0.1",
+  "name": "@ztanksle/identity-map",
+  "version": "2.0.2",
   "description": "Gulp plugin for generating an identity sourcemap for a file.",
   "author": "Gulp-sourcemaps Team",
   "contributors": [
@@ -26,7 +26,7 @@
   "dependencies": {
     "acorn": "^6.4.1",
     "normalize-path": "^3.0.0",
-    "postcss": "^8.4.38",
+    "postcss": "^8.4.49",
     "source-map": "^0.6.0",
     "through2": "^3.0.1"
   },
