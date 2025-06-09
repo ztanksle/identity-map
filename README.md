@@ -1,4 +1,4 @@
-# @gulp-sourcemaps/identity-map
+# @ztanksle/identity-map
 
 [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] [![AppVeyor Build Status][appveyor-image]][appveyor-url] [![Coveralls Status][coveralls-image]][coveralls-url]
 
@@ -7,7 +7,7 @@ Gulp plugin for generating an identity sourcemap for a file.
 ## Example
 
 ```js
-var identityMap = require('@gulp-sourcemaps/identity-map');
+var identityMap = require('@ztanksle/identity-map');
 
 gulp.src(...)
   .pipe(sourcemaps.init())
